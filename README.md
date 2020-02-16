@@ -11,7 +11,7 @@
 
 ## 2월 3째주
 - [X] 다혜 - [스프링 가이드 #2](https://velog.io/@dahye4321/%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B0%80%EC%9D%B4%EB%93%9C-2)
-- [ ] 홍희
+- [X] 홍희 - [CORS 이슈 해결](https://vvshinevv.tistory.com/61)
 
 ## 2월 4째주
 - [ ] 다혜
