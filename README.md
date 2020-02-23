@@ -14,5 +14,5 @@
 - [X] 홍희 - [CORS 이슈 해결](https://vvshinevv.tistory.com/61)
 
 ## 2월 4째주
-- [ ] 다혜
+- [X] 다혜 - [byte 코드 조작하기](https://velog.io/@dahye4321/JAVA-class-%ED%8C%8C%EC%9D%BC-%EC%A1%B0%EC%9E%91%ED%95%98%EA%B8%B0)
 - [ ] 홍희
