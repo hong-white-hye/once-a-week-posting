@@ -20,7 +20,7 @@
 
 ## 3월 - 꾸준하게 🤭
 ### 3월 1째주
-- [ ] 다혜
+- [X] 다혜 - [객체지향의 사실과 오해를 읽으며](https://velog.io/@dahye4321/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98-%EC%82%AC%EC%8B%A4%EA%B3%BC-%EC%98%A4%ED%95%B4%EB%A5%BC-%EC%9D%BD%EC%9C%BC%EB%A9%B0)
 - [ ] 홍희
 
 ### 3월 2째주
