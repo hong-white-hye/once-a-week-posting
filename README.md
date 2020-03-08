@@ -25,7 +25,7 @@
 
 ### 3월 2째주
 - [X] 다혜 - [토비의 스프링 1장을 읽으며](https://velog.io/@dahye4321/%ED%86%A0%EB%B9%84%EC%9D%98-%EC%8A%A4%ED%94%84%EB%A7%81-1%EC%9E%A5%EC%9D%84-%EC%9D%BD%EC%9C%BC%EB%A9%B0)
-- [X] 홍희 - [오브젝트와 ](https://vvshinevv.tistory.com/64)
+- [X] 홍희 - [오브젝트와 의존관계](https://vvshinevv.tistory.com/64)
 
 ### 3월 3째주
 - [ ] 다혜
