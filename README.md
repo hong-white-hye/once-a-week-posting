@@ -32,9 +32,9 @@
 - [X] 홍희 - [테스트](https://vvshinevv.tistory.com/66)
 
 ### 3월 4째주
-- [X] 다혜 - [토비의 스프링 3장을 ](https://velog.io/@dahye4321/%ED%86%A0%EB%B9%84%EC%9D%98-%EC%8A%A4%ED%94%84%EB%A7%81-3%EC%9E%A5%EC%9D%84-%EC%9D%BD%EC%9C%BC%EB%A9%B0)
+- [X] 다혜 - [토비의 스프링 3장을 읽으며](https://velog.io/@dahye4321/%ED%86%A0%EB%B9%84%EC%9D%98-%EC%8A%A4%ED%94%84%EB%A7%81-3%EC%9E%A5%EC%9D%84-%EC%9D%BD%EC%9C%BC%EB%A9%B0)
 - [X] 홍희 - [템플릿1](https://vvshinevv.tistory.com/67)
 
 ### 3월 5째주
-- [ ] 다혜
+- [X] 다혜 - [토비의 스프링 4장을 읽으며](https://velog.io/@dahye4321/%ED%86%A0%EB%B9%84%EC%9D%98-%EC%8A%A4%ED%94%84%EB%A7%81-4%EC%9E%A5%EC%9D%84-%EC%9D%BD%EC%9C%BC%EB%A9%B0)
 - [ ] 홍희
