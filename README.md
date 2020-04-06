@@ -41,7 +41,7 @@
 
 ## 4월 - 나태해지지 말기 👊 (feat.봄)
 ### 4월 1째주
-- [ ] 다혜
+- [X] 다혜 - [토비의 스프링 5장을 읽으며](https://velog.io/@dahye4321/%ED%86%A0%EB%B9%84%EC%9D%98-%EC%8A%A4%ED%94%84%EB%A7%81-5%EC%9E%A5%EC%9D%84-%EC%9D%BD%EC%9C%BC%EB%A9%B0)
 - [X] 홍희 - [서비스 추상화1](https://vvshinevv.tistory.com/71)
 
 ### 4월 2째주
