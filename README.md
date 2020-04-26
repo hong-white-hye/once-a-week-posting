@@ -55,4 +55,4 @@
 
 ### 4월 4째주
 - [ ] 다혜
-- [ ] 홍희
+- [X] 홍희 - [AOP3](https://vvshinevv.tistory.com/75) / [AOP4](https://vvshinevv.tistory.com/76)
