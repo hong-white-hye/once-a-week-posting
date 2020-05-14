@@ -56,3 +56,20 @@
 ### 4월 4째주
 - [ ] 다혜
 - [X] 홍희 - [AOP3](https://vvshinevv.tistory.com/75) / [AOP4](https://vvshinevv.tistory.com/76)
+
+## 5월 - 지치지 말기 🚴
+### 5월 1째주
+- [ ] 다혜 - 
+- [ ] 홍희 - 
+
+### 5월 2째주
+- [ ] 다혜 - 
+- [X] 홍희 - [Base Terminal을 세련되게(Mac)](https://vvshinevv.tistory.com/77)
+
+### 5월 3째주
+- [ ] 다혜 - 
+- [ ] 홍희 - 
+
+### 5월 4째주
+- [ ] 다혜
+- [ ] 홍희 - 
