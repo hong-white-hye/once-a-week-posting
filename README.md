@@ -68,7 +68,7 @@
 
 ### 5월 3째주
 - [ ] 다혜 - 
-- [ ] 홍희 - 
+- [X] 홍희 - [Enum과 Generic 함께 사용하기](https://vvshinevv.tistory.com/78)
 
 ### 5월 4째주
 - [ ] 다혜
