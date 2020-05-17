@@ -54,20 +54,20 @@
 - [X] 홍희 - [AOP2](https://vvshinevv.tistory.com/74)
 
 ### 4월 4째주
-- [ ] 다혜
+- [ ] 다혜 - 못함 😓
 - [X] 홍희 - [AOP3](https://vvshinevv.tistory.com/75) / [AOP4](https://vvshinevv.tistory.com/76)
 
 ## 5월 - 지치지 말기 🚴
 ### 5월 1째주
-- [ ] 다혜 - 
+- [ ] 다혜 - 못함 😓
 - [ ] 홍희 - 못함 😓
 
 ### 5월 2째주
-- [ ] 다혜 - 
+- [ ] 다혜 - 못함 😓
 - [X] 홍희 - [Base Terminal을 세련되게(Mac)](https://vvshinevv.tistory.com/77)
 
 ### 5월 3째주
-- [ ] 다혜 - 
+- [X] 다혜 - [람다식](https://github.com/kimdahyeee/TDL/blob/e6c717a583f1b93f13fe20117f4f8afe3880490c/posts/java8-%EB%9E%8C%EB%8B%A4%EC%8B%9D.md) 
 - [X] 홍희 - [Enum과 Generic 함께 사용하기](https://vvshinevv.tistory.com/78)
 
 ### 5월 4째주
