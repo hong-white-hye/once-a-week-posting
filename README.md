@@ -72,4 +72,4 @@
 
 ### 5월 4째주
 - [X] 다혜 - [java code convention](https://velog.io/@dahye4321/java-coding-convention)
-- [ ] 홍희 - 
+- [X] 홍희 - [Packet Switching을 사용하면 왜 Loss나 Delay가 발생할까](https://vvshinevv.tistory.com/79)
