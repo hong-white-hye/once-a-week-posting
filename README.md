@@ -73,3 +73,20 @@
 ### 5월 4째주
 - [X] 다혜 - [java code convention](https://velog.io/@dahye4321/java-coding-convention)
 - [X] 홍희 - [Packet Switching을 사용하면 왜 Loss나 Delay가 발생할까](https://vvshinevv.tistory.com/79)
+
+## 6월 - 스파르타!! 🤾‍♂
+### 6월 1째주
+- [ ] 다혜 - 
+- [ ] 홍희 - 
+
+### 6월 2째주
+- [ ] 다혜 - 
+- [ ] 홍희 - 
+
+### 6월 3째주
+- [ ] 다혜 - 
+- [ ] 홍희 - 
+
+### 6월 4째주
+- [ ] 다혜 -
+- [ ] 홍희 -
