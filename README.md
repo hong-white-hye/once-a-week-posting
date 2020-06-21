@@ -58,10 +58,6 @@
 - [X] 홍희 - [AOP3](https://vvshinevv.tistory.com/75) / [AOP4](https://vvshinevv.tistory.com/76)
 
 ## 5월 - 지치지 말기 🚴
-### 5월 1째주
-- [ ] 다혜 - 못함 😓
-- [ ] 홍희 - 못함 😓
-
 ### 5월 2째주
 - [ ] 다혜 - 못함 😓
 - [X] 홍희 - [Base Terminal을 세련되게(Mac)](https://vvshinevv.tistory.com/77)
@@ -75,14 +71,6 @@
 - [X] 홍희 - [Packet Switching을 사용하면 왜 Loss나 Delay가 발생할까](https://vvshinevv.tistory.com/79)
 
 ## 6월 - 스파르타!! 🤾‍♂
-### 6월 1째주
-- [ ] 다혜 - 
-- [ ] 홍희 - 
-
-### 6월 2째주
-- [ ] 다혜 - 
-- [ ] 홍희 - 
-
 ### 6월 3째주
 - [ ] 다혜 - 
 - [ ] 홍희 - 
