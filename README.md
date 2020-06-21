@@ -72,7 +72,7 @@
 
 ## 6월 - 스파르타!! 🤾‍♂
 ### 6월 3째주
-- [ ] 다혜 - 
+- [X] 다혜 - [Constructor 주입을 사용하자.](https://velog.io/@dahye4321/Constructor-%EC%A3%BC%EC%9E%85%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EC%9E%90)
 - [ ] 홍희 - 
 
 ### 6월 4째주
